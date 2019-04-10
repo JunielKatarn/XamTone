@@ -5,6 +5,8 @@
 
   <Target Name="Dump">
     <Message Text="XamarinMacFrameworkRoot  [$(XamarinMacFrameworkRoot)]" />
+    <Message Text="Platform                 [$(Platform)]" />
+    <Message Text="Configuration            [$(Configuration)]" />
   </Target>
 
 </Project>
