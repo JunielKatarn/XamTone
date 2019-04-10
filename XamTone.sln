@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTone.UWP", "XamTone\XamTone.UWP\XamTone.UWP.csproj", "{BC3752F9-6350-4045-895E-72EC9AA115E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTone.UWP", "XamTone.UWP\XamTone.UWP.csproj", "{BC3752F9-6350-4045-895E-72EC9AA115E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTone.Android", "XamTone\XamTone.Android\XamTone.Android.csproj", "{83235B97-A9E2-4958-BAC3-59E662C2F8F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTone.Android", "XamTone.Android\XamTone.Android.csproj", "{83235B97-A9E2-4958-BAC3-59E662C2F8F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTone.iOS", "XamTone\XamTone.iOS\XamTone.iOS.csproj", "{B522EA19-0124-4285-A39E-D7B5C3C42EB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTone.iOS", "XamTone.iOS\XamTone.iOS.csproj", "{B522EA19-0124-4285-A39E-D7B5C3C42EB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTone", "XamTone\XamTone\XamTone.csproj", "{EC08DF2B-A6D3-4E8A-9B43-B58CE43876C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTone", "XamTone\XamTone.csproj", "{EC08DF2B-A6D3-4E8A-9B43-B58CE43876C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
