@@ -8,7 +8,7 @@
 
   <Identity
     Name="9ef34838-e796-4d78-b535-92cb5ef18394"
-    Publisher="CN=a3f44448-a0d5-4c81-871c-1fa3b0b020b4"
+    Publisher="CN=XamTone"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
